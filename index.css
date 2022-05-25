@@ -278,6 +278,51 @@ p {
   padding-top: 10%;
 }
 
+.text-for-img {
+  font-size: 14px;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  text-align: center;
+}
+
+.column-with-img {
+  padding-top: 60%;
+  display: flex;
+  margin-right: 20%;
+}
+.black-box-second {
+  padding-right: 10%;
+  padding-bottom: 5%;
+}
+
+.block-with-img-first-column {
+  padding-right: 90px;
+}
+
+.block-with-img-content-for-padding {
+  padding-top: 70px;
+}
+.block-with-img-content-for-padding-second {
+  padding-top: 90px;
+}
+
+.block-with-img-second-column {
+  padding-top: 26px;
+}
+
+.text-for-img-second {
+  padding-top: 34px;
+}
+
+.text-for-img-third {
+  padding-top: 30px;
+  text-align: left;
+}
+
+.text-for-img-fourth {
+  padding-top: 30px;
+}
+
 @media screen and (max-width: 1024px) {
   .header-nav {
     visibility: hidden;
